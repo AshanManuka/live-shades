@@ -4101,12 +4101,17 @@ border:solid 1px #ddd;
 	}
 	
 	.rm{
-		position: relative;
-		left: 25.5%;
+		position: center;
 	}
 
+	.row{
+		position: center;
+
+	}
+
+
 	.de-team-list img{
-		width:100%;
+		width:auto;
 	}
 	
 	.de-team-list .team-desc{
