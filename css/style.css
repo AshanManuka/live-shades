@@ -3992,6 +3992,16 @@ a.btn-right{
 
 /* team
 /* ================================================== */
+#imgOne{
+	display: none;
+}
+#imgTwo{
+	display: none;
+}
+#imgThree{
+	display: none;
+}
+
 .team {
 	margin-bottom: 30px;
 	text-align:center;
